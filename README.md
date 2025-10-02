@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá! Eu sou o Pablo Ramirez!
+Desenvolvedor Full Stack | Atualmente focado em FrontEnd, UX/UI Design e Design em Geral. 
 
-<!--
-**eopablas/eopablas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No meu GitHub você vai encontrar: Projetos de aplicativos mobile; Node.js; Projetos próprios, HTML/CSS, JavaScript.
 
-Here are some ideas to get you started:
+💻 O que eu estudo e trabalho:
+My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estatística do github 📈
+Top Langs Top Langs
+
+✨ Objetivo
+Meu maior objetivo aqui no GitHub é compartilhar meus projetos pessoais e, mais importante, mostrar como cheguei ao resultado final. Acredito que o processo é tão valioso quanto o produto final, e aprender com os erros e acertos ao longo do caminho é fundamental para evoluir como desenvolvedor.
